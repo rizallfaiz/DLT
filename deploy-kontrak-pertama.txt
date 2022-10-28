@@ -1,0 +1,65 @@
+Migrations dry-run (simulation)
+===============================
+> Network name:    'goerli-fork'
+> Network id:      5
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'DStorage'
+   --------------------
+   > block number:        7832775
+   > block timestamp:     1666719540
+   > account:             0x7A161848F385765bfD3Cb4caB066C15f0069755c
+   > balance:             0.210033273602215218
+   > gas used:            855121 (0xd0c51)
+   > gas price:           30.674015014 gwei
+   > value sent:          0 ETH
+   > total cost:          0.026229994392786694 ETH
+
+   -------------------------------------
+   > Total cost:     0.026229994392786694 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.026229994392786694 ETH
+
+
+
+
+Starting migrations...
+======================
+> Network name:    'goerli'
+> Network id:      5
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'DStorage'
+   --------------------
+   > transaction hash:    0x369b9a6d1a6b199dafff8e8359114ecaa3dbbb56a23187c58742ccc4d7516660
+   > Blocks: 3            Seconds: 41
+   > contract address:    0x3E1F79bF02ae65695e91D6864EB31aA68219D78F
+   > block number:        7832787
+   > block timestamp:     1666719600
+   > account:             0x7A161848F385765bfD3Cb4caB066C15f0069755c
+   > balance:             0.210033273602215218
+   > gas used:            855121 (0xd0c51)
+   > gas price:           30.674015014 gwei
+   > value sent:          0 ETH
+   > total cost:          0.026229994392786694 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.026229994392786694 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.026229994392786694 ETH
